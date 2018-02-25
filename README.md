@@ -46,3 +46,8 @@ Share Clip for Windows/Linux (free):
 
 Share Clipboard Homepage:  
 [http://langui.net/share-clipboard/](http://langui.net/share-clipboard/ "Share Clipboard Homepage")
+
+## License
+
+Share Clipboard is released under the MIT license. See
+the [LICENSE](LICENSE) file.
